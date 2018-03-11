@@ -77,6 +77,11 @@ public class FigureApp extends JFrame implements ActionListener {
 	JButton diamondButton=new JButton("Romb");
 	JButton windMillButton=new JButton("Wiatrak");
 	
+	
+	/*no dzień dobry */
+	
+	
+	
 	public static void main(String[] args) {
 		new FigureApp();
 	}
